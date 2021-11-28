@@ -3,7 +3,7 @@
 
 @font-face {
   font-family:Abaddon;
-  src: url(Abaddon/Abaddon.ttf);
+  src: url(Abaddon.ttf);
 }
 @font-face {
   font-family:CELTG;
@@ -11,7 +11,7 @@
 }
 @font-face {
   font-family:Aunchanted Bold Regular;
-  src: url(Aunchanted\ Bold\ Regular/.ttf);
+  src: url(Aunchanted\ Bold\ Regular.ttf);
 }
 
 * {
@@ -75,6 +75,7 @@ color: #fff;
 }
 .main2{
     font-family:Abaddon;
+    /* font-family:CELTG; */
     font-size: 57px;
 }
 
